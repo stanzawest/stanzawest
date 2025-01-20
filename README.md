@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stanzawest
 - i like making games and overthinking
 - I’m currently learning
-- Unity Python Html
+- Unity, Python, Html...
 - How to reach me ...
 N/A
 <!---
